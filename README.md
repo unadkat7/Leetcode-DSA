@@ -74,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/unadkat7/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/unadkat7/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/unadkat7/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/unadkat7/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
