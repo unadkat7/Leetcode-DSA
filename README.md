@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/unadkat7/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/unadkat7/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/unadkat7/Leetcode-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/unadkat7/Leetcode-DSA/tree/master/3275-k-th-nearest-obstacle-queries) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Queue
 |  |
 | ------- |
