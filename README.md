@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/unadkat7/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/unadkat7/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/unadkat7/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/unadkat7/Leetcode-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/unadkat7/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/unadkat7/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/unadkat7/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/unadkat7/Leetcode-DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/unadkat7/Leetcode-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
