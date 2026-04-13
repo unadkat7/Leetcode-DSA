@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/unadkat7/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/unadkat7/Leetcode-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/unadkat7/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/unadkat7/Leetcode-DSA/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/unadkat7/Leetcode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
