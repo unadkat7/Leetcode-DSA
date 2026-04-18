@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/unadkat7/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/unadkat7/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/unadkat7/Leetcode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/unadkat7/Leetcode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
