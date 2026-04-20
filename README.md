@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/unadkat7/Leetcode-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/unadkat7/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/unadkat7/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/unadkat7/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/unadkat7/Leetcode-DSA/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3634-minimum-removals-to-balance-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/unadkat7/Leetcode-DSA/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/unadkat7/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
