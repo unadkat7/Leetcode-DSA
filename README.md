@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/unadkat7/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/unadkat7/Leetcode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/unadkat7/Leetcode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/unadkat7/Leetcode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/unadkat7/Leetcode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-k-th-nearest-obstacle-queries](https://github.com/unadkat7/Leetcode-DSA/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3634-minimum-removals-to-balance-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/unadkat7/Leetcode-DSA/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/unadkat7/Leetcode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/unadkat7/Leetcode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/unadkat7/Leetcode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -127,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/unadkat7/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/unadkat7/Leetcode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 <!---LeetCode Topics End-->
