@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/unadkat7/Leetcode-DSA/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3634-minimum-removals-to-balance-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/unadkat7/Leetcode-DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/unadkat7/Leetcode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/unadkat7/Leetcode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
