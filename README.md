@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/unadkat7/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0657-robot-return-to-origin](https://github.com/unadkat7/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/unadkat7/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/unadkat7/Leetcode-DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/unadkat7/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/unadkat7/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/unadkat7/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/unadkat7/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/unadkat7/Leetcode-DSA/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3634-minimum-removals-to-balance-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/unadkat7/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/unadkat7/Leetcode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/unadkat7/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
