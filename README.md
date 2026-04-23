@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/unadkat7/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0165-compare-version-numbers](https://github.com/unadkat7/Leetcode-DSA/tree/master/0165-compare-version-numbers) |
 | [0657-robot-return-to-origin](https://github.com/unadkat7/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/unadkat7/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/unadkat7/Leetcode-DSA/tree/master/0165-compare-version-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/unadkat7/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/unadkat7/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
