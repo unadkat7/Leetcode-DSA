@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/unadkat7/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/unadkat7/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0299-bulls-and-cows](https://github.com/unadkat7/Leetcode-DSA/tree/master/0299-bulls-and-cows) |
 | [0930-binary-subarrays-with-sum](https://github.com/unadkat7/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/unadkat7/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/unadkat7/Leetcode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/unadkat7/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/unadkat7/Leetcode-DSA/tree/master/0165-compare-version-numbers) |
+| [0299-bulls-and-cows](https://github.com/unadkat7/Leetcode-DSA/tree/master/0299-bulls-and-cows) |
 | [0657-robot-return-to-origin](https://github.com/unadkat7/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/unadkat7/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/unadkat7/Leetcode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -143,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/unadkat7/Leetcode-DSA/tree/master/0299-bulls-and-cows) |
 | [2833-furthest-point-from-origin](https://github.com/unadkat7/Leetcode-DSA/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
